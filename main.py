@@ -1,1 +1,3 @@
-print("Hello World!")
+import functions
+
+functions.hello_world()
